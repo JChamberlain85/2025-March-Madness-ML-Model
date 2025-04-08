@@ -1,4 +1,4 @@
-# March Madness Bracket Predictor – Neural Network Model
+# 2025 NCAA March Madness Bracket Predictor – Neural Network Model
 
 This project uses a neural network to predict the outcomes of the NCAA Men's Basketball Tournament by forecasting score margins between teams. It was designed to evaluate the feasibility of using machine learning for full bracket prediction based on historical team performance and season stats.
 
